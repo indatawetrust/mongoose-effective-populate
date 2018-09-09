@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-effective-populate",
+  "version": "0.0.1",
+  "description": "Easy-to-use populate for mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/mongoose-effective-populate.git"
+  },
+  "keywords": [
+    "mongoose",
+    "effective",
+    "populate"
+  ],
+  "author": "indatawetrust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indatawetrust/mongoose-effective-populate/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/mongoose-effective-populate#readme"
+}
